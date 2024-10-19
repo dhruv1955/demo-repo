@@ -7,3 +7,7 @@ addding new line
 deleting and adding a new line !
 
 adding a new line using vi in git terminal
+
+## commit ahanges using new branch 
+
+added something in new branch
